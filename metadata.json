@@ -1,7 +1,7 @@
 {
-  "name": "Everstake",
+  "name": "Everstake - DO NOT STAKE",
   "website": "https://everstake.one",
-  "description": "Everstake is the No.1 staking infrastructure platform, trusted by retail and institutional clients worldwide. Committed to the highest standards of compliance, we deliver secure staking solutions across 130+ chains with a reliability rate of 99.98%.",
+  "description": "Everstake is no longer participating in EigenLayer. If you have any tokens staked with Everstake, please unstake or redelegate them to another operator.",
   "logo": "https://raw.githubusercontent.com/everstake/eigenlayer/main/logo.png",
   "twitter": "https://x.com/everstake_pool"
 }
